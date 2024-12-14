@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqOrderBy", "LinqOrderBy\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqCombined", "LinqCombined\LinqCombined.csproj", "{7C6C5B2C-0AEF-4BFC-837E-226E9B4E7C64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBasicExample", "ClassBasicExample\ClassBasicExample.csproj", "{0C2F9E15-67AD-46EF-B231-1766F94BFC71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{7C6C5B2C-0AEF-4BFC-837E-226E9B4E7C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C6C5B2C-0AEF-4BFC-837E-226E9B4E7C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C6C5B2C-0AEF-4BFC-837E-226E9B4E7C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2F9E15-67AD-46EF-B231-1766F94BFC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2F9E15-67AD-46EF-B231-1766F94BFC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2F9E15-67AD-46EF-B231-1766F94BFC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2F9E15-67AD-46EF-B231-1766F94BFC71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
